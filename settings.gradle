@@ -1,0 +1,9 @@
+rootProject.name = 'spring-clooud-microservices'
+include 'account-service'
+include 'bill-serivice'
+include 'deposit-service'
+include 'config-service'
+include 'gateway'
+include 'notification-service'
+include 'registry'
+
